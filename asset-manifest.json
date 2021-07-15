@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/responsive-app-refering-w3s/static/css/main.b3d477ad.chunk.css",
+    "main.js": "/responsive-app-refering-w3s/static/js/main.3542a96b.chunk.js",
+    "main.js.map": "/responsive-app-refering-w3s/static/js/main.3542a96b.chunk.js.map",
+    "runtime-main.js": "/responsive-app-refering-w3s/static/js/runtime-main.ceb7e1a6.js",
+    "runtime-main.js.map": "/responsive-app-refering-w3s/static/js/runtime-main.ceb7e1a6.js.map",
+    "static/js/2.3447bfca.chunk.js": "/responsive-app-refering-w3s/static/js/2.3447bfca.chunk.js",
+    "static/js/2.3447bfca.chunk.js.map": "/responsive-app-refering-w3s/static/js/2.3447bfca.chunk.js.map",
+    "static/js/3.68d342f0.chunk.js": "/responsive-app-refering-w3s/static/js/3.68d342f0.chunk.js",
+    "static/js/3.68d342f0.chunk.js.map": "/responsive-app-refering-w3s/static/js/3.68d342f0.chunk.js.map",
+    "index.html": "/responsive-app-refering-w3s/index.html",
+    "static/css/main.b3d477ad.chunk.css.map": "/responsive-app-refering-w3s/static/css/main.b3d477ad.chunk.css.map",
+    "static/js/2.3447bfca.chunk.js.LICENSE.txt": "/responsive-app-refering-w3s/static/js/2.3447bfca.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.ceb7e1a6.js",
+    "static/js/2.3447bfca.chunk.js",
+    "static/css/main.b3d477ad.chunk.css",
+    "static/js/main.3542a96b.chunk.js"
+  ]
+}
